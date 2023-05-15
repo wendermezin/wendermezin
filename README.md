@@ -13,5 +13,5 @@
 
  
 <div>
-  <img align="center" alt="Ferreira-Azure" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">     
+  <img align="center" alt="Ferreira-Azure" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">     
 </div>
